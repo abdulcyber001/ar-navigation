@@ -1,0 +1,25 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+
+# Unity specific
+.utmp/
+ARNavigator_BurstDebugInformation_DoNotShip/
+
+# Visual Studio / IDE
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.slnx
+
+# OS
+.DS_Store
+Thumbs.db
+Library_BACKUP/
